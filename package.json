@@ -1,17 +1,13 @@
 {
   "name": "gwajs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "gwajs =====",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/gwa/gwajs.git"
   },
   "author": "Timothy Groves",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/gwa/gwajs/issues"
   },
@@ -19,7 +15,6 @@
   "devDependencies": {
     "grunt": "^0.4.4",
     "grunt-contrib-jshint": "^0.10.0",
-    "grunt-contrib-uglify": "^0.4.0",
     "grunt-jscs-checker": "^0.4.1"
   }
 }
